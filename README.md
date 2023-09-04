@@ -2,7 +2,9 @@
 
 ⚠️ Under construction
 
-The program starts with the setup, initializing the necessary variables and setting up the NeoPixel strip. Once the setup is complete, the program enters a loop where it checks the keys, processes MIDI events, and checks the volumes.
+The program starts with the setup, initializing the necessary variables and setting up the NeoPixel strip. 
+
+Once the setup is complete, the program enters a loop where it checks the keys, processes MIDI events, and checks the volumes.
 
 - In the "Check Keys" step, it sets the Mux channel and processes the key, which involves sending MIDI events.
 - In the "Check MIDI" step, it receives MIDI events and updates the NeoPixel strip accordingly.
