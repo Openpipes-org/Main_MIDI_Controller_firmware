@@ -1,9 +1,9 @@
 # Main MIDI Controller firmware
 
 <img src="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware/blob/main/images/arduino-logo.jpg" title="" alt="Arduino logo" data-align="center">
-
+<hr>
 Download the last source code in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware/releases">releases</a> section.
-
+<hr>
 The program starts with the setup, initializing the necessary variables and setting up the NeoPixel strip. 
 
 Once the setup is complete, the program enters in a loop mode where it checks the keys, processes MIDI events, and checks the volumes.
