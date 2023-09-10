@@ -1,4 +1,4 @@
-# Main MIDI Controller firmware
+# Main MIDI Controller firmware (Version 1)
 
 <img src="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware/blob/main/images/arduino-logo.jpg" title="" alt="Arduino logo" data-align="center">
 <hr>
