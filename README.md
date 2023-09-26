@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware/blob/main/images/arduino-logo.jpg" title="" alt="Arduino logo" data-align="center">
 <hr>
-Download the last source code in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware/releases">releases</a> section.
+Download the latest source code in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware/releases/latest">releases</a> section.
 <hr>
 
 This is the sketch (source code) to install in the Arduino-compatible Pro Micro board soldered over the [Main MIDI Controller board (version 1)](https://github.com/Openpipes-org/Main_MIDI_Controller_PCB), using the [Arduino IDE](https://www.arduino.cc/en/software) software.
